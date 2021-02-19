@@ -1,3 +1,5 @@
+import MutationSummary from 'mutation-summary';
+
 const TreeMirror = (() => {
     class TreeMirror {
         constructor(root, delegate) {
