@@ -2,6 +2,6 @@
 # yarn lockfile v1
 
 
-"mutation-summary@https://github.com/usercast/mutation-summary#try-it":
+"mutation-summary@https://github.com/usercast/mutation-summary":
   version "1.0.0"
-  resolved "https://github.com/usercast/mutation-summary#effc098ef97759edc75894035b712da34e064b96"
+  resolved "https://github.com/usercast/mutation-summary#a72d712791b895bf9e7bb6297e7e2f8678f9adae"
